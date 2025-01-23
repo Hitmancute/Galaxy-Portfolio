@@ -1,5 +1,5 @@
 
-<a href="https://www.youtube.com/watch?v=R6VzUQpP2Q4" target="_blank">
+<a href="https://youtu.be/dtBp4dob4pE?si=64FSELoptlb62IYT" target="_blank">
   <img src="./images/thum galaxy.png" alt="Thumbnail"/>
 </a>
 
@@ -16,6 +16,6 @@
 
 ---
 ## Watch the full tutorial on YouTub
-<a href="https://www.youtube.com/watch?v=R6VzUQpP2Q4">
+<a href="https://youtu.be/dtBp4dob4pE?si=64FSELoptlb62IYT">
   <img src="./images/youtube.png" alt="youtube"/>
 </a>
